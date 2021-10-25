@@ -1,0 +1,3 @@
+[submodule "ambassador-frontend"]
+	path = ambassador-frontend
+	url = https://github.com/daisuke8000/ambassador-frontend.git
